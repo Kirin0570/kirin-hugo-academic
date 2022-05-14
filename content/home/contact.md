@@ -25,12 +25,12 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: qli478@wisc.edu
+  phone: 
   address:
     street: 450 Serra Mall
-    city: Stanford
-    region: CA
+    city: Madison
+    region: WI
     postcode: '94305'
     country: United States
     country_code: US
