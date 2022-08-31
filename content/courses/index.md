@@ -14,5 +14,5 @@ header:
   image: ""
 ---
 
-## Qualifying Exam
-- [Solution to some old exams.](https://uwprod-my.sharepoint.com/:f:/g/personal/qli478_wisc_edu/EpsJUcVtb3xHpjy2yepG7SYBOji-mTW73yQ28BG_9kWT7w?e=HSyXvs)
+## PhD Qualifying Exam 
+- [Some practice materials for Option A.](https://uwprod-my.sharepoint.com/:f:/g/personal/qli478_wisc_edu/EpsJUcVtb3xHpjy2yepG7SYBOji-mTW73yQ28BG_9kWT7w?e=HSyXvs)
