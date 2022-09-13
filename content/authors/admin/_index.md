@@ -1,5 +1,5 @@
 ---
-title: Qilin Li
+title: Qilin Yan
 role: PhD student in Statistics
 bio: My research interests lie in the intersection of statistics and computer science. 
 interests: 
