@@ -20,7 +20,7 @@ education:
       year: 2021-present
 
     - course: BSc in Statistics
-      institution: University of Science and Technology of China123
+      institution: University of Science and Technology of China
       year: 2017-2021
 
 email: "qli478@wisc.edu"
