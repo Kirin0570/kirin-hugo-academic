@@ -3,9 +3,8 @@ title: Qilin Li
 role: PhD student in Statistics
 bio: My research interests lie in the intersection of statistics and computer science. 
 interests: 
-  - High-dimensional statistics
-  - Machine learning
-  - Network analysis
+  - Statistical method in quantum computing
+  - Continuous time reinforcement learning
 social:
   - icon: envelope
     icon_pack: fas
