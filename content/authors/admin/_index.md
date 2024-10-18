@@ -1,7 +1,7 @@
 ---
 title: Qilin Li
 role: PhD student in Statistics
-bio: My research interests lie in the intersection of statistics and computer science. 
+bio: My research interests lie in the intersection of statistics and quantum computation. 
 interests: 
   - Statistical methods in quantum computing
   - Continuous-time reinforcement learning
@@ -26,4 +26,6 @@ email: "qli478@wisc.edu"
 superuser: true
 highlight_name: true
 ---
-I am a third-year PhD student in Statitstics at University of Wisconsin-Madison, supervised by Professor Yazhen Wang. In my spare time, I enjoy traveling and playing basketball. 
+
+I am a fourth-year PhD student in Statistics at the University of Wisconsin-Madison, supervised by Professor Yazhen Wang, focusing on enhancing quantum algorithms using advanced statistical techniques. I have experience in high-performance computing, machine learning, and data analysis with tools such as Python, Qiskit, R, and C++. I am passionate about pushing the boundaries of quantum computing and statistics. In my spare time, I enjoy traveling and playing basketball. 
+
