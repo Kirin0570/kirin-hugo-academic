@@ -26,6 +26,5 @@ email: "qli478@wisc.edu"
 superuser: true
 highlight_name: true
 ---
-
 I am a fourth-year PhD student in Statistics at the University of Wisconsin-Madison, supervised by Professor Yazhen Wang, focusing on enhancing quantum algorithms using advanced statistical techniques. I have experience in high-performance computing, machine learning, and data analysis with tools such as Python, Qiskit, R, and C++. I am passionate about pushing the boundaries of quantum computing and statistics. In my spare time, I enjoy traveling and playing basketball. 
 
